@@ -20,14 +20,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <th>Kode MTK</th>
+                    <th>Kode Mata Kuliah</th>
                     <th>:</th>
                     <td>
                         <input type="text" name="kode" id="kode">
                     </td>
                 </tr>
                 <tr>
-                    <th>Nama MTK</th>
+                    <th>Nama Mata Kuliah</th>
                     <td>:</td>
                     <td>
                         <input type="text" name="nama" id="nama">
